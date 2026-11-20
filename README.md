@@ -1,8 +1,8 @@
 # Railway-Reservation-System
 
-# Reg No:
-# Name:
-# Date:
+# Reg No:212225040168
+# Name:Kanishka G
+# Date:20-11-2026
 
 
 # AIM:
@@ -41,6 +41,7 @@ Specifying the context and requirements of a system
 
 
 
+<img width="1245" height="892" alt="Screenshot 2026-11-20 113953" src="https://github.com/user-attachments/assets/9039f051-b677-4f6a-9bf0-f840425c3cbd" />
 
 
 
@@ -59,6 +60,7 @@ Visually express any specific needs of a system and disseminate that information
 
 Create detailed charts that…
 
+<img width="1245" height="895" alt="Screenshot 2026-11-20 114105" src="https://github.com/user-attachments/assets/d8119ebb-d84b-41de-9758-be260cafcb7a" />
 
 
 # COMMUNICTION DIAGRAM:
@@ -67,6 +69,7 @@ A communication diagram offers the same information as a sequence diagram, but w
 
 Communication diagrams offer benefits similar to sequence diagrams, but they will offer a better understanding of how components communicate and interact with each other rather than solely emphasizing the sequence of events. They can be a useful reference for businesses, organizations, and engineers who need to visualize and understand the physical communications within a program. Try drawing a sequence diagram to:
 
+<img width="1238" height="888" alt="Screenshot 2026-11-20 114139" src="https://github.com/user-attachments/assets/ae9f3ee7-3cc1-41f3-89b9-7f1464116fb7" />
 
 
 
@@ -83,6 +86,7 @@ A well-designed package diagram provides numerous benefits to those looking to c
 
 
 
+<img width="1232" height="887" alt="Screenshot 2026-11-20 114210" src="https://github.com/user-attachments/assets/719d28f6-7c2d-4c12-b573-fc13604af3f2" />
 
 
 # ACTIVITY DIAGRAM:
@@ -98,6 +102,7 @@ Demonstrate the logic of an algorithm.
 Describe the steps performed in a UML use case.
 
 
+<img width="1247" height="888" alt="Screenshot 2026-11-20 114253" src="https://github.com/user-attachments/assets/c6e85c75-d0b5-410f-9eef-007d25117541" />
 
 
 
@@ -118,6 +123,7 @@ Model the logic of a sophisticated procedure, function, or operation. See how ob
 
 Plan and understand the detailed functionality of an existing or future scenario.
 
+<img width="1236" height="896" alt="Screenshot 2026-11-20 114324" src="https://github.com/user-attachments/assets/e46dbdb1-0f27-4f91-92c9-b65ac1f2d0bf" />
 
 
 
